@@ -2,7 +2,7 @@
 
 # 💫 Sobre mim
 
-Olá! 👋 Sou **Augusto César**, um Desenvolvedor de Software especializado em **Inteligência Artificial** e **Cloud Computing**.
+Olá! 👋 Sou **Augusto César**, um Desenvolvedor de Software focado em **Inteligência Artificial** e **Cloud Computing**.
 
 Tenho experiência prática na criação de soluções escaláveis, incluindo chatbots inteligentes e automação de processos utilizando **Python, LangChain e AWS Bedrock**. Graduado em Análise de Sistemas e estudante de Ciência da Computação, estou focado em aprofundar meus conhecimentos em arquitetura de software, DevOps e NLP para resolver problemas complexos.
 
