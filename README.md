@@ -43,13 +43,14 @@ Aqui estão as tecnologias que utilizo para dar vida aos projetos:
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=augustocsar&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=augustocsar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=augustocsar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
-
-<div align="center">
-  
 ## 🐍 Minhas Contribuições
+
 <img src="https://raw.githubusercontent.com/augustocsar/augustocsar/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
